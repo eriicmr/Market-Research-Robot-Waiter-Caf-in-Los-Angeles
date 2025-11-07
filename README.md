@@ -46,3 +46,9 @@ This project explores the viability of launching a **robot-waiter café** in Los
 ## 🛠️ Tools Used
 - Python, Jupyter Notebook
 - Libraries: pandas, seaborn, matplotlib
+
+---
+
+✍️ **Author**: Eric Moraes  
+📍 Dublin, Ireland  
+🔗 [LinkedIn](https://linkedin.com/in/eric--moraes)  
